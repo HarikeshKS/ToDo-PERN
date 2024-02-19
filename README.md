@@ -8,10 +8,7 @@ Welcome to ToDo-PERN, a robust To-Do application built on the PERN stack (Postgr
 - Utilizes the power of PostgreSQL for a reliable and relational database.
 - Express.js provides a robust server-side framework.
 - Node.js ensures efficient server-side JavaScript execution.
-
-## Project Structure
-
-The codebase emphasizes clear separation between front-end and back-end components, promoting modularity and maintainability. Dive into well-documented code to understand and extend functionalities according to your requirements.
+- EJS and other static files for the front-end.
 
 ## Learning Journey
 
