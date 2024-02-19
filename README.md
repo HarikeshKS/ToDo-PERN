@@ -1,13 +1,12 @@
 # ToDo-PERN
 
-Welcome to ToDo-PERN, a robust To-Do application built on the PERN stack (PostgreSQL, Express.js, React, Node.js). This repository serves as a practical example of a modern web application, offering seamless task management through CRUD operations and taking advantage of the stack's scalability.
+Welcome to ToDo-PERN, a robust To-Do application built on the PERN stack (PostgreSQL, Express.js, React(not yet), Node.js). This repository serves as a practical example of a modern web application, offering seamless task management through CRUD operations and taking advantage of the stack's scalability.
 
 ## Features
 
 - Create, Read, Update, and Delete tasks with ease.
 - Utilizes the power of PostgreSQL for a reliable and relational database.
 - Express.js provides a robust server-side framework.
-- React handles the client-side interface for an interactive user experience.
 - Node.js ensures efficient server-side JavaScript execution.
 
 ## Project Structure
